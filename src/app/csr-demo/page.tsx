@@ -69,7 +69,7 @@ export default function CSRDemo() {
             <span className="bg-blue-500 text-white text-xs font-bold px-2 py-1 rounded uppercase tracking-wide">
               CSR
             </span>
-            <h1 className="text-2xl font-bold">Client-Side Rendering Demo</h1>
+            <h1 className="text-2xl font-bold">Client-Side Rendering Demo For Design</h1>
           </div>
           <p className="text-blue-100 text-sm max-w-2xl">
             This page fetches data <strong>in the browser</strong> after the initial HTML loads. The JS bundle ships first, then the browser runs the fetch — you may notice a loading state before products appear.
